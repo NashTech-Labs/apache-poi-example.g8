@@ -4,4 +4,4 @@
 *.class
 *.log
 ### JetBrains template
-.idea/
+.idea
