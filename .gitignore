@@ -1,0 +1,7 @@
+/project/target/
+/target/
+### Scala template
+*.class
+*.log
+### JetBrains template
+.idea/
