@@ -5,3 +5,9 @@
 *.log
 ### JetBrains template
 .idea
+### Gitter8
+target/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
